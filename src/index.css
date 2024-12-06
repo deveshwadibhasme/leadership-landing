@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer{
+    .img-circle::after{
+        content: '';
+        @apply absolute top-0 left-0 w-20 h-20 rounded-full bg-white ;
+    }   
+}
