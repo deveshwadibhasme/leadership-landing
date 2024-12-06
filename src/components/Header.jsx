@@ -31,7 +31,7 @@ export default function Header() {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
       >
-       <a href="https://forms.gle/vvRtpdF5WwiYn1Qw8" target='_blank'> Join the Leadership Journey Now</a>
+       <a href="https://forms.gle/vvRtpdF5WwiYn1Qw8" target='_blank'> Join the Leadership Journey</a>
       </motion.button>
     </header>
   )
