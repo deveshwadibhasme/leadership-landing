@@ -15,7 +15,7 @@ export default function Header() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-      <img src={logo} alt="Be a Leader" className="relative -top-16 left-2 w-24 md:w-29 h-14 md:h-20 img-circle" />
+      <img src={logo} alt="Be a Leader" className="relative -top-16 left-2 w-24 md:w-32 h-14 md:h-20 img-circle" />
         Do You Have What It Takes to Lead?
       </motion.h1>
       <motion.p 
